@@ -1,0 +1,554 @@
+.side_ankerpane{
+    -fx-background-color: #3562D4;
+    
+}
+
+
+
+.BotonEditor{
+      -fx-background-color: #D4E1FF; /* Light blue background */
+    -fx-text-fill: black; /* Black text color */
+    -fx-font-size: 16px; /* Font size */
+    -fx-font-weight: bold; /* Bold text */
+    -fx-padding: 10px 20px; /* Padding */
+    -fx-background-radius: 0; /* Rectangular shape */
+    -fx-border-color: #D4E1FF; /* Border color */
+    -fx-border-width: 2px; /* Border width */
+    -fx-border-radius: 0; /* Rectangular shape */
+    -fx-graphic-text-gap: 10px; /* Space between image and text */
+    -fx-alignment: CENTER_LEFT; /* Align text to the left with image */
+}
+
+.BotonReportes{
+       -fx-background-color: #3562D4; /* Light blue background */
+    -fx-text-fill: black; /* Black text color */
+    -fx-font-size: 16px; /* Font size */
+    -fx-font-weight: bold; /* Bold text */
+    -fx-padding: 10px 20px; /* Padding */
+    -fx-background-radius: 0; /* Rectangular shape */
+    -fx-border-color: #3562D4; /* Border color */
+    -fx-border-width: 2px; /* Border width */
+    -fx-border-radius: 0; /* Rectangular shape */
+    -fx-graphic-text-gap: 10px; /* Space between image and text */
+    -fx-alignment: CENTER_LEFT; /* Align text to the left with image */
+}
+
+.BtnSalir{
+     -fx-background-color: #C70909; /* Light blue background */
+    -fx-text-fill: white; /* Black text color */
+    -fx-font-size: 16px; /* Font size */
+    -fx-font-weight: bold; /* Bold text */
+    -fx-padding: 10px 20px; /* Padding */
+    -fx-background-radius: 0; /* Rectangular shape */
+    -fx-border-color: #C70909; /* Border color */
+    -fx-border-width: 2px; /* Border width */
+    -fx-border-radius: 0; /* Rectangular shape */
+    -fx-graphic-text-gap: 10px; /* Space between image and text */
+    -fx-alignment: CENTER_LEFT; /* Align text to the left with image */
+}
+
+.Format{
+    -fx-background-color: #3562D4; 
+}
+
+.textfieldpack {
+    -fx-prompt-text-fill: C7C7C7; /* Color del texto de sugerencia (prompt text) */
+    -fx-text-fill: black; /* Color del texto ingresado */
+    -fx-prompt-text-fill: lightgray;
+    -fx-font-family: "Arial"; /* Fuente del texto */
+    -fx-font-size: 14px; /* Tamaño del texto */
+}
+
+.botoninicio{
+    
+    -fx-background-color: #4285F4;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px; /* Adjust for rounded corners */
+    -fx-border-radius: 15px;     /* Ensure border matches background's rounded corners */
+
+}
+
+
+.botoninicio2{
+    
+    -fx-background-color: #db3030;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px; /* Adjust for rounded corners */
+    -fx-border-radius: 15px;     /* Ensure border matches background's rounded corners */
+
+}
+
+.botoninicio3{
+    
+    -fx-background-color: #2fdf84;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px; /* Adjust for rounded corners */
+    -fx-border-radius: 15px;     /* Ensure border matches background's rounded corners */
+
+}
+
+
+
+.botoninicio:hover{
+   -fx-background-color: #5796ff
+}
+
+.botoninicio2:hover{
+  -fx-background-color: #ff4545;  
+}
+
+.botoninicio3:hover{
+  -fx-background-color: #24ac65;  
+}
+
+
+.botonregistrar{
+    
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+  /* Ensure border matches background's rounded corners */
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;  /* También puedes quitar el borde si lo deseas */
+    -fx-background-radius: 0;       /* Para quitar cualquier radio de borde */
+    -fx-border-radius: 0;           /* Para quitar cualquier radio de borde */
+    -fx-padding: 0;       
+     -fx-font-weight: bold;              /* Texto en negritas */
+    -fx-text-fill: black;               /* Color del texto */
+    -fx-underline: true;                /* Subrayado */
+
+}
+.idusuario{
+    -fx-background-color: transparent;
+-fx-border-color: lightblue;
+-fx-border-width: 1px;
+-fx-border-radius: 5;
+-fx-prompt-text-fill: lightgrey;
+-fx-font-size: 14px;
+-fx-prompt-text-fill: C7C7C7;
+}
+.idusuario2{
+    -fx-background-color: transparent;
+-fx-border-color: #fc8b4c;
+-fx-border-width: 1px;
+-fx-border-radius: 5;
+-fx-prompt-text-fill: lightgrey;
+-fx-font-size: 14px;
+-fx-prompt-text-fill: C7C7C7;
+
+}
+.idusuario3{
+    -fx-background-color: #f1f1f1;
+-fx-border-color: #ffbf9b;
+-fx-border-width: 2;
+-fx-border-radius: 10PX;
+-fx-background-radius: 10px;
+
+-fx-prompt-text-fill: lightgrey;
+-fx-font-size: 30px;
+-fx-text-fill: #828282;
+}
+
+.background{
+    -fx-background-color: #ffbf9b;
+}
+
+
+.idcontrasena{
+    -fx-background-color: transparent;
+-fx-border-color: lightblue;
+-fx-border-width: 1px;
+-fx-border-radius: 5;
+-fx-prompt-text-fill: lightgrey;
+-fx-font-size: 14px;
+-fx-prompt-text-fill: C7C7C7;
+}
+
+.botonregistro{
+    -fx-background-color: #FE6A17;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 1px 1x;
+    -fx-background-radius: 15px; /* Adjust for rounded corners */
+    -fx-border-radius: 10px;     /* Ensure border matches background's rounded corners */
+}
+
+.botonregistro:hover{
+     -fx-background-color: #bf4f11 ;
+}
+
+.labelregistro {
+    -fx-text-fill: #3562D4;          /* Cambia el color del texto */
+    -fx-font-size: 40px;          /* Cambia el tamaño de la fuente */
+    -fx-font-family: "Arial";     /* Cambia la fuente */
+}
+
+.labelform {
+    -fx-font-size: 40px;          /* Cambia el tamaño de la fuente */
+    -fx-font-family: "Arial";     /* Cambia la fuente */
+}
+
+
+.labelform2 {
+    -fx-font-size: 100px;          /* Cambia el tamaño de la fuente */
+    -fx-font-family: "Britannic Bold";     /* Cambia la fuente */
+}
+
+.labelform3 {
+    -fx-font-size: 15px;          /* Cambia el tamaño de la fuente */
+    -fx-font-family: "Berlin Sans FB";     /* Cambia la fuente */
+}
+
+
+
+.ResetBtn{
+    -fx-background-color: transparent; 
+    -fx-padding: 0; 
+    -fx-background-insets: 0; 
+}
+
+.root {
+    -fx-background-color: linear-gradient(to bottom right, #eaeaea, #ffffff);
+    -fx-font-family: 'Segoe UI', sans-serif;
+}
+
+.top-bar {
+    -fx-background-color: #ff963e;
+    -fx-padding: 10;
+}
+
+.cerrarSesionButton{
+    -fx-background-color: #e04f5f;
+    -fx-padding: 10 20;
+    -fx-background-radius: 10;
+    
+}
+
+.cerrarSesionButton:hover{
+    -fx-background-color: #de7c87;
+}
+
+.menu-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #2f2f2f;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10;
+    -fx-padding: 10 20;
+   
+}
+
+.menu-button:hover {
+    -fx-background-color: #ffffff;
+}
+
+.input-field {
+    -fx-background-color: #eaeaea;
+    -fx-border-color: #bdbdbd;
+    -fx-border-radius: 10;
+    -fx-text-fill: #5a5a5a;
+    
+    -fx-prompt-text-fill: #bbbbbb;
+    -fx-font-size: 16px;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+
+.action-button {
+    -fx-background-color: #4ec135;
+    -fx-background-radius: 10;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+}
+
+ .action-button:hover {
+    -fx-background-color: #62e745
+   
+}
+
+.action-button2 {
+    -fx-background-color: #db3030;
+    -fx-background-radius: 10;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+   
+}
+
+.action-button4 {
+    -fx-background-color: #db3030;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+    -fx-background-radius: 15px; /* Adjust for rounded corners */
+    -fx-border-radius: 15px;     /* Ensure border matches background's rounded corners */
+
+   
+}
+
+ .action-button2:hover {
+    -fx-background-color: #ff3737;
+  
+}
+
+.total-price-label, .product-price {
+    -fx-text-fill: #2f2f2f;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+}
+
+.product-grid {
+    -fx-background-color: #eaeaea;
+    -fx-padding: 20;
+    -fx-background-radius: 10;
+}
+
+.product-box {
+    -fx-background-color: #ffffff;
+    -fx-border-radius: 10;
+    -fx-padding: 20;
+}
+
+.product-label {
+    -fx-text-fill: #2f2f2f;
+    -fx-font-size: 14px;
+}
+
+.list-view {
+    -fx-background-color: #eaeaea;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+.list-view .list-cell {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #2f2f2f;
+    -fx-font-size: 14px;
+    -fx-padding: 10;
+}
+
+.list-view .list-cell:even {
+    -fx-background-color: #eaeaea;
+}
+
+.list-view .list-cell:selected {
+    -fx-background-color: #2f2f2f;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+}
+
+.dialog-pane {
+    -fx-background-color: #2f2f2f;
+    -fx-text-fill: #ffffff;
+}
+
+.dialog-pane .header-panel, .dialog-pane .button-bar {
+    -fx-background-color: #eaeaea;
+    -fx-text-fill: #2f2f2f;
+}
+
+.dialog-pane .content-panel {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #2f2f2f;
+}
+
+.dialog-pane .button {
+    -fx-background-color: #2f2f2f;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 10;
+}
+
+.dialog-pane .button:hover {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #2f2f2f;
+}
+
+.scroll-pane {
+    -fx-background: #eaeaea;
+    -fx-padding: 20;
+    -fx-background-radius: 10;
+}
+
+.scroll-pane .viewport {
+    -fx-background: #ffffff;
+    -fx-background-radius: 10;
+}
+
+.scroll-bar {
+    -fx-background-color: #2f2f2f;
+}
+
+.scroll-bar .increment-button, .scroll-bar .decrement-button {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10;
+}
+
+.scroll-bar .track {
+    -fx-background-color: #eaeaea;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #2f2f2f;
+    -fx-background-radius: 10;
+}
+
+.scroll-bar .thumb:hover {
+    -fx-background-color: #ffffff;
+}
+
+.list-view .list-cell {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent transparent #d3d3d3 transparent;
+    -fx-border-width: 0 0 1 0;
+}
+
+.list-view:empty .list-cell {
+    -fx-border-color: transparent;
+}
+
+.apagar {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-padding: 0;
+}
+
+.apagar:pressed {
+    -fx-background-color: transparent;
+}
+
+.apagar:focused {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-padding: 0;
+}
+
+.ProductBtn {
+    -fx-background-color: transparent; /* Color de fondo */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-border-width: 0; /* Sin borde */
+    -fx-border-radius: 25px; /* Esquinas circulares */
+    -fx-background-radius: 25px; /* Esquinas circulares */
+    -fx-padding: 10 20; /* Espaciado interno */
+    -fx-font-size: 16px; /* Tamaño de la fuente */
+    -fx-cursor: hand; /* Cursor tipo puntero al pasar sobre el botón */
+    -fx-background-image: url("/imgs/AddItem.png"); /* Ruta de la imagen */
+    -fx-background-size: 100% auto; /* Ajusta el tamaño de la imagen al 100% del ancho, y altura automática */
+    -fx-background-repeat: no-repeat; /* No repetir la imagen */
+    -fx-background-position: center top; /* Posicionar la imagen en la parte inferior del botón */
+}
+.ProductBtn2{
+    -fx-background-color: transparent; /* Color de fondo */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-border-width: 0; /* Sin borde */
+    -fx-border-radius: 25px; /* Esquinas circulares */
+    -fx-background-radius: 25px; /* Esquinas circulares */
+    -fx-padding: 10 20; /* Espaciado interno */
+    -fx-font-size: 16px; /* Tamaño de la fuente */
+    -fx-cursor: hand; /* Cursor tipo puntero al pasar sobre el botón */
+    -fx-background-image: url("/imgs/UpdateItem.png"); /* Ruta de la imagen */
+    -fx-background-size: 100% auto; /* Ajusta el tamaño de la imagen al 100% del ancho, y altura automática */
+    -fx-background-repeat: no-repeat; /* No repetir la imagen */
+    -fx-background-position: center top; /* Posicionar la imagen en la parte inferior del botón */
+}
+
+.ProductBtn3{
+    -fx-background-color: transparent; /* Color de fondo */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-border-width: 0; /* Sin borde */
+    -fx-border-radius: 25px; /* Esquinas circulares */
+    -fx-background-radius: 25px; /* Esquinas circulares */
+    -fx-padding: 10 20; /* Espaciado interno */
+    -fx-font-size: 16px; /* Tamaño de la fuente */
+    -fx-cursor: hand; /* Cursor tipo puntero al pasar sobre el botón */
+    -fx-background-image: url("/imgs/ViewItems.png"); /* Ruta de la imagen */
+    -fx-background-size: 100% auto; /* Ajusta el tamaño de la imagen al 100% del ancho, y altura automática */
+    -fx-background-repeat: no-repeat; /* No repetir la imagen */
+    -fx-background-position: center top; /* Posicionar la imagen en la parte inferior del botón */
+}
+
+.LabelForInventario{
+    -fx-text-fill: #00f379; /* Color del texto */
+    -fx-font-size: 47px; /* Tamaño de la fuente */
+    -fx-font-family: "Britannic Bold";
+    -fx-font-weight: bold; /* Peso de la fuente */
+    -fx-effect: dropshadow(gaussian, black, 2, 1, 4, 4);
+    
+}
+
+.background-pane {
+    -fx-background-color: white; /* Fondo blanco */
+    -fx-background-radius: 20; /* Bordes circulares */
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 10, 0, 0, 10); /* Sombra */
+    -fx-padding: 20; /* Espaciado interno para los TextFields */
+  
+    -fx-border-radius: 20;
+    -fx-border-width: 5;
+}
+
+
+
+.date-picker {
+    -fx-background-color: #ff8c41;  /* Fondo oscuro */
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+    -fx-font-size: 20px;
+    text-align: center;
+    -fx-background-radius: 20px;
+}
+
+.date-picker .text-field {
+    -fx-background-color: #ffa86f;  /* Campo de texto oscuro */
+    -fx-border-color: -fx-primary-color;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-text-fill: #ffffff;  /* Texto color suave */
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: -fx-secondary-color;
+    -fx-background-radius: 15px;
+    -fx-text-fill: white;
+}
+
+.date-picker-popup {
+    -fx-background-color: #ff8c41; /* Fondo del popup oscuro */
+    -fx-border-radius: 15px;
+    -fx-padding: 5px;
+}
+
+.date-picker-popup .month-year-pane {
+    -fx-background-color: #ff8c41; /* Azul suave para el encabezado */
+    -fx-text-fill: white;
+    -fx-padding: 5px;
+    
+}
+
+.date-picker-popup .day-cell {
+    -fx-background-color: #ffa86f;  /* Fondo oscuro de los días */
+    -fx-text-fill: #000000;  /* Texto de los días en tono suave */
+  
+    -fx-padding: 5px;
+}
+
+.date-picker-popup .day-cell:hover {
+    -fx-background-color: -fx-primary-color;  /* Hover en naranja suave */
+    -fx-text-fill: black;
+    -fx-border-radius: 10px;
+}
+
+.date-picker-popup .day-cell:selected {
+    -fx-background-color: -fx-secondary-color;  /* Selección en azul suave */
+    -fx-text-fill: white;
+    -fx-border-radius: 10px;
+}
